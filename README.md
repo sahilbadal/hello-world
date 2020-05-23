@@ -1,2 +1,3 @@
 # hello-world
-This is just an introductory repository.
+Hi Everyone!
+This is an introductory github repository.
