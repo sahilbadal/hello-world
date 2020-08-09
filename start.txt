@@ -1,6 +1,12 @@
 Welcome, Let's Start
 Hello
 
+Name
+Email
 
 Thank You
+
+Done with changes
+
 Final 
+
